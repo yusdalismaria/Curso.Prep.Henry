@@ -1,0 +1,30 @@
+1. En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12
+ años. Hacer esto te ayudará a descubrir rápidamente
+  cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+    -Variables: una variable funciona como una carta, en la cual vas a meter 
+    -un- papelito que puede contener cualquier tipo de informacion, bien sea 
+    un numero, una letra, una palabra o un caracter, es decir, un arroba, una 
+    coma... entre otros
+    -String, es un tipo de dato que contiene una informacion, en la cual puede ir  
+    una frase, un numero o caracteres, siendo este el identificativo de la variable
+    es decir, la variable es la carta y el string es el papelito que vas a meter en
+    la carta
+    -Funciones, se pueden considerar acciones a realizar, por ejemplo... La accion
+    correr, necesita alguien y que realice la accion de correr
+    -If, funciona como una condicion, que es una condicion? es como lo que 
+    que te permite realizar una accion, es decir, si te preguntan... Tu tienes 12 años?
+    tu dices si, si no es asi, respondes no. 
+    -Valores booleanos, podria decirse que corresponde a la una verdad o una mentira,
+    si algo es verdadero se considera TRUE, si algo es falso se considera FALSE, es decir
+    la misma pregunta que se acaba de realizar, tienes doce años? verdadero, no tienes 
+    12 años? falso.
