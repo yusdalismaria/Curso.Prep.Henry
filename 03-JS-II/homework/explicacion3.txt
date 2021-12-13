@@ -1,0 +1,35 @@
+1. En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años.
+ Hacer esto te ayudará a descubrir rápidamente cualquier 
+ agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+En la estructura 'for' se puede definir que es como un
+recorrido por un archivero hasta encontrar la cantidad
+o el limite de 'cosas' a buscar. Es decir, se supone que 
+queremos buscar 10 nombres de alumnos en una carpeta 
+determinada, entonces se recorrera la carpeta 10 veces
+y se iran guardando esos nombres
+
+En el caso de los operadores logicos
+
+OR (&&) esto los indica 'o', si quiero que algo se lleve
+a cabo, y debo evaluar dos condiciones, este caso nos refiere
+a que por ejemplo: si vas a salir a comer con el clima soleado
+pero una lluvia no impedira que te traslades porque tienes carro    
+si la condicion es este lloviendo o este soleado VOY  a comer,
+a pesar de que  una de las condiciones no aplica en la condicion
+para ir a comer 'esta soleado si' y por eso, saldras.
+
+AND (||) caso contrario, solo se aplica si se cumplen ambas
+condiciones evaluadas, es decir, voy a salir a comer SI esta
+soleado Y SI hace buen clima, si fuese: ESTA SOLEADO pero NO HACE
+BUEN TIEMPO, no se cumple la condicion
+
+NOT (!) esta negacion, se utiliza para negar cualquier cosa
+que este pasando, es decir si en una oracion decimos
+si quiero ir a comer, al utilizar este operador 
+seria 'no quiero ir a comer'.
