@@ -124,13 +124,10 @@ function multiplicarArgumentos() {
   if (arguments.length<1){
     return 0;
   }
-  
   for(let i=0;i<arguments.length;i++){
    		almacenS=almacenS*arguments[i];
   }
     return almacenS;
- 
- 
 }
 
 
